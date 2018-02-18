@@ -1,6 +1,7 @@
 # Project2
 
-**TODO: Add description**
+-Implemented Bit coin miner using actor model in Elixir.
+-SHA-256 is used for bit coin mining in which server allocates work to connecting clients to involve them in bit coin mining process
 
 ## Installation
 
